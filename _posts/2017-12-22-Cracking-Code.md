@@ -13,6 +13,18 @@ tags:                               #标签
 ## Interview
 >A log of CC.
 
+2017-12-22
+
+The Interview Process
+
+Algorithm and coding problems form the largest component of the interview process.
+
+Skills: 1.Analytical skills - 是否需要帮助 答案是否最优化 所用时间长短 是否有所权衡
+        2.Coding Skills - 能否将想法转化为可实现的代码 是否clean 代码组织是否良好 有没有潜在的错误
+        3.Technical knowledge - 计算机科学的基础知识
+        4.Experience: Project - important factors
+        5.Culture fit/ Commuication Skills 
+
 
 
 Author：Zehua Wang
