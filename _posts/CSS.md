@@ -105,6 +105,20 @@ img[title] {border:2px solid blue;} 会选择下面的带有title属性的HTML i
 
 <img src="XX.jpg" title="yellow" alt="yellow"/>
 
+属性值选择符
+
+标签名[属性名="属性值"] 
+
+img[title="red flower"] {border:4px solid green;}
+
+在图片的title属性为 red flower的情况下, 才会为图片添加边框. 
+
+<img src="img.jpg" title="red flower" alt="red flower" />
+
+伪类
+
+UI 伪类会在
+
 
 
 
