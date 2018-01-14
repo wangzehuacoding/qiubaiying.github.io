@@ -117,8 +117,7 @@ img[title="red flower"] {border:4px solid green;}
 
 伪类
 
-UI 伪类会在
-
+UI 伪类
 
 
 
